@@ -13,6 +13,12 @@
 		9B38053D23C53E220045250E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B38053B23C53E220045250E /* Main.storyboard */; };
 		9B38053F23C53E230045250E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B38053E23C53E230045250E /* Assets.xcassets */; };
 		9B38054223C53E230045250E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B38054023C53E230045250E /* LaunchScreen.storyboard */; };
+		9B38054F23C53F290045250E /* frame_1_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9B38054923C53F290045250E /* frame_1_delay-0.1s.gif */; };
+		9B38055023C53F290045250E /* frame_5_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9B38054A23C53F290045250E /* frame_5_delay-0.1s.gif */; };
+		9B38055123C53F290045250E /* frame_3_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9B38054B23C53F290045250E /* frame_3_delay-0.1s.gif */; };
+		9B38055223C53F290045250E /* frame_4_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9B38054C23C53F290045250E /* frame_4_delay-0.1s.gif */; };
+		9B38055323C53F290045250E /* frame_0_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9B38054D23C53F290045250E /* frame_0_delay-0.1s.gif */; };
+		9B38055423C53F290045250E /* frame_2_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9B38054E23C53F290045250E /* frame_2_delay-0.1s.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		9B38053E23C53E230045250E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B38054123C53E230045250E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B38054323C53E230045250E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B38054923C53F290045250E /* frame_1_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_1_delay-0.1s.gif"; sourceTree = "<group>"; };
+		9B38054A23C53F290045250E /* frame_5_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_5_delay-0.1s.gif"; sourceTree = "<group>"; };
+		9B38054B23C53F290045250E /* frame_3_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_3_delay-0.1s.gif"; sourceTree = "<group>"; };
+		9B38054C23C53F290045250E /* frame_4_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_4_delay-0.1s.gif"; sourceTree = "<group>"; };
+		9B38054D23C53F290045250E /* frame_0_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_0_delay-0.1s.gif"; sourceTree = "<group>"; };
+		9B38054E23C53F290045250E /* frame_2_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_2_delay-0.1s.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +72,12 @@
 				9B38053723C53E220045250E /* SceneDelegate.swift */,
 				9B38053923C53E220045250E /* ViewController.swift */,
 				9B38053B23C53E220045250E /* Main.storyboard */,
+				9B38054D23C53F290045250E /* frame_0_delay-0.1s.gif */,
+				9B38054923C53F290045250E /* frame_1_delay-0.1s.gif */,
+				9B38054E23C53F290045250E /* frame_2_delay-0.1s.gif */,
+				9B38054B23C53F290045250E /* frame_3_delay-0.1s.gif */,
+				9B38054C23C53F290045250E /* frame_4_delay-0.1s.gif */,
+				9B38054A23C53F290045250E /* frame_5_delay-0.1s.gif */,
 				9B38053E23C53E230045250E /* Assets.xcassets */,
 				9B38054023C53E230045250E /* LaunchScreen.storyboard */,
 				9B38054323C53E230045250E /* Info.plist */,
@@ -125,8 +143,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B38055423C53F290045250E /* frame_2_delay-0.1s.gif in Resources */,
 				9B38054223C53E230045250E /* LaunchScreen.storyboard in Resources */,
+				9B38055323C53F290045250E /* frame_0_delay-0.1s.gif in Resources */,
+				9B38055223C53F290045250E /* frame_4_delay-0.1s.gif in Resources */,
 				9B38053F23C53E230045250E /* Assets.xcassets in Resources */,
+				9B38055123C53F290045250E /* frame_3_delay-0.1s.gif in Resources */,
+				9B38054F23C53F290045250E /* frame_1_delay-0.1s.gif in Resources */,
+				9B38055023C53F290045250E /* frame_5_delay-0.1s.gif in Resources */,
 				9B38053D23C53E220045250E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
